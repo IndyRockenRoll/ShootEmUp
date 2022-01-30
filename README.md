@@ -1,5 +1,11 @@
 "# shootemup" 
 
+NOTES:
+================
+to add images, download img.zip and unzip it so that 
+there is an img subfolder of the game images in the same directory as
+the python script itself
+
 Useful websites for this project
 
 Kids can code website is: -
