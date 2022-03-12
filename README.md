@@ -22,3 +22,7 @@ and each lesson part is a separate web page
 Python 101: - 
 Python Beginners 1, 2, 3 at Coderdojo on Youtube:
 https://www.youtube.com/channel/UC2rv7b3QS7SAYkapsS6V_XQ
+
+A great resource as recommended by KidsCanCode 
+for music, sound effects and image resources: -
+https://opengameart.org/
