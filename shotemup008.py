@@ -183,7 +183,7 @@ explosion_anim['lg'] = []
 explosion_anim['sm'] = []
 for i in range(9):
     filename = 'regularExplosion0{}.png'.format(i)
-    img = pygame.image.load('./shotemup/img/' + filename)
+    img = pygame.image.load('./img/' + filename)
     img.set_colorkey(BLACK)
     img_lg = pygame.transform.scale(img, (75, 75))
     explosion_anim['lg'].append(img_lg)
@@ -192,15 +192,15 @@ for i in range(9):
 
 
 # Load all game sounds
-shoot_sound = pygame.mixer.Sound('./shotemup/snd/pew.wav')
+shoot_sound = pygame.mixer.Sound('./snd/pew.wav')
 
 # 2 different explosion noises
 expl_sounds = []    # this creates an empty list variable called expl_sounds
 for snd in ['expl3.wav', 'expl6.wav']:   # this loops twice once with snd = 'expl3.wav' 2nd time 'expl6.wav'
-    expl_sounds.append(pygame.mixer.Sound('./shotemup/snd/' + snd)) # adds a new sound object with filename snd to list
+    expl_sounds.append(pygame.mixer.Sound('./snd/' + snd)) # adds a new sound object with filename snd to list
 
 # now setup the background music (which will loop endlessly)
-pygame.mixer.music.load('./shotemup/snd/music.ogg')
+pygame.mixer.music.load('./snd/music.ogg')
 pygame.mixer.music.set_volume(0.4)
 
 
