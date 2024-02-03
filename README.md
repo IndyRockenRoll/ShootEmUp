@@ -26,3 +26,6 @@ https://www.youtube.com/channel/UC2rv7b3QS7SAYkapsS6V_XQ
 A great resource as recommended by KidsCanCode 
 for music, sound effects and image resources: -
 https://opengameart.org/
+
+Slides for Coderdojo Coolest Projects: 
+https://docs.google.com/presentation/d/1XzO7WMNAMZ9E1e1g3OuE5J_Sz4DGwhf_wg5DqX8kNRM/edit#slide=id.g1ec29fd4d4e_0_0
